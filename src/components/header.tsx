@@ -12,7 +12,7 @@ const menues: Menu[] = [
     path: "/i18next",
   },
   {
-    name: "Sign In",
+    name: "Sign In(Formik)",
     path: "/signIn"
   }
 ];
