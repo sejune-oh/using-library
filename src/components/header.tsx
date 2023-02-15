@@ -11,6 +11,10 @@ const menues: Menu[] = [
     name: "i18next",
     path: "/i18next",
   },
+  {
+    name: "Sign In",
+    path: "/signIn"
+  }
 ];
 
 ///menu layout
