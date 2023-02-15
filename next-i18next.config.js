@@ -7,6 +7,6 @@ const config = {
     locales: locales,
     localeDetection: false,
   }
-}
+ }
 
 module.exports = config
